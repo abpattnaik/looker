@@ -11,5 +11,7 @@ datagroup: ab_learning_looker_default_datagroup {
 persist_with: ab_learning_looker_default_datagroup
 
 explore: build_version {}
-
+explore: customer {}
 explore: error_log {}
+explore: product {}
+explore: address {}
